@@ -39,4 +39,4 @@ You can explore each file to see examples and explanations of various JavaScript
 ### Cloning the repository
 To clone the repository, run the following command:
 ```bash
-git clone 
+git clone https://github.com/Carlosmarroquin20/JavaScript-Learning-Journey.git
